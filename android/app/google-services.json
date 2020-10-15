@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1003370027286",
+    "firebase_url": "https://sayhi-58a0f.firebaseio.com",
+    "project_id": "sayhi-58a0f",
+    "storage_bucket": "sayhi-58a0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003370027286:android:cc6eb05e7f2f5e53c9d837",
+        "android_client_info": {
+          "package_name": "com.example.say_hi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003370027286-2c0heanh7l60u9jb15ngt16cfb7ih8hn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.say_hi",
+            "certificate_hash": "e73a1f928382ec665faf48a04f8eaac520e254d1"
+          }
+        },
+        {
+          "client_id": "1003370027286-jpkn9vn32259iugbcf9vcn89tu0reepr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANTLprqCLxlM_dwfi6TAnsKI3HLjUy0kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003370027286-jpkn9vn32259iugbcf9vcn89tu0reepr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
